@@ -1,3 +1,0 @@
-/home/ubunter/Desktop/study/C_plus_plus/LeetCode/Two_Sum/build/CMakeFiles/two_sum.dir
-/home/ubunter/Desktop/study/C_plus_plus/LeetCode/Two_Sum/build/CMakeFiles/edit_cache.dir
-/home/ubunter/Desktop/study/C_plus_plus/LeetCode/Two_Sum/build/CMakeFiles/rebuild_cache.dir
