@@ -1,0 +1,3 @@
+/home/ubunter/Desktop/study/C_plus_plus/LeetCode/Longest_Common_Prefix/build/CMakeFiles/longest_common_prefix.dir
+/home/ubunter/Desktop/study/C_plus_plus/LeetCode/Longest_Common_Prefix/build/CMakeFiles/edit_cache.dir
+/home/ubunter/Desktop/study/C_plus_plus/LeetCode/Longest_Common_Prefix/build/CMakeFiles/rebuild_cache.dir
