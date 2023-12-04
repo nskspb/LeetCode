@@ -5,11 +5,13 @@ using namespace std;
 
 string largestGoodInteger(string num)
 {
-    return num;
+    char *phr;
+    phr = std::strstr(num, "999");
+    return phr;
 }
 
 int main()
 {
-    std::cout << largestGoodInteger("123213");
+    std::cout << largestGoodInteger("12321546999");
     return 0;
 }
